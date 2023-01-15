@@ -8,7 +8,7 @@ int main()
 	int a,b,c,d,e;
 	
 	printf("\nNOTE :: 1) The Program should be executed under Teacher, Parents or Guardians Guidance.\n");
-	printf("\t2) To use the Program a local Stylus, Spen, Apple Pencil or a Touch Pad is needed.\n");
+	printf("\t2) To use the Program a local Stylus, Spen or Apple Pencil is needed.\n");
 	printf("\t3) Compatible with all Touch screen Devices.\n");
 	printf("\t4) Trace the following Alphabets.\n\n");
 	
